@@ -35,17 +35,9 @@ ul {
   padding-left: 20px;
 }
 
-.download-btn {
-  display: inline-block;
-  background-color: #007bff;
-  color: #fff;
-  text-decoration: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-}
-
-.download-btn:hover {
-  background-color: #0056b3;
+.appstore img {
+    width: 10%; /* Adjust the width as needed */
+    height: auto;
 }
 
 footer {
