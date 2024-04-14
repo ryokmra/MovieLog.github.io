@@ -11,6 +11,11 @@ header {
   background-position: center;
 }
 
+header img {
+    width: 100px;
+    height: 100px;
+}
+
 main {
   max-width: 800px;
   margin: 0 auto;
