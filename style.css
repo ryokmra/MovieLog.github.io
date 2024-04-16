@@ -34,7 +34,7 @@ section {
     margin-bottom: 20px;
 }
 
-.screenshot {
+..screenshot {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
@@ -42,7 +42,7 @@ section {
 }
 
 .screenshot img {
-    width: 10%; /* Adjust the width as needed */
+    width: 20%; /* Adjust the width as needed */
     height: auto;
     margin-right: 20px;
     border: 1px solid #ccc;
@@ -52,6 +52,7 @@ section {
 .screenshot p {
     flex-grow: 1;
 }
+
 
 .appstore img {
     width: 10%; /* Adjust the width as needed */
