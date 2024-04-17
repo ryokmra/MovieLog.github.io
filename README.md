@@ -1,2 +1,2 @@
-# MovieLog.github.io
-アプリ「MovieLog」のサポートページを管理するリポジトリです。
+# ryokmra.github.io
+Github Pagesのサイトを管理するリポジトリです。
